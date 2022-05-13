@@ -1,0 +1,11 @@
+.App {
+    font-family: cursive;
+    font-size: medium;
+    text-align: center;
+    text-decoration: wavy;
+    text-shadow: 2px 2px 2px whitesmoke;
+  }
+
+  body {
+    background-color: lightcoral;
+  }
